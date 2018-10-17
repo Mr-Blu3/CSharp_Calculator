@@ -1,0 +1,15 @@
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csprojAssemblyReference.cache
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\App.g.cs
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator_MarkupCompile.cache
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator_MarkupCompile.lref
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\MainWindow.baml
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.g.resources
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\pontu\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
